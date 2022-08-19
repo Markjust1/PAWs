@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------
 Creating a user profile:
 
-!["Create"](./express-server/public/dogs/create_profile.gif)
+!["Create"](./express-server/public/uploads/create_profile.gif)
 
 --------------------------------------------------------------------------------
 Main page:
