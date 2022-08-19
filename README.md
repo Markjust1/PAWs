@@ -12,27 +12,27 @@ Creating a user profile:
 --------------------------------------------------------------------------------
 Main page:
 
-!["Main"](./express-server/public/dogs/main_page.gif)
+!["Main"](./express-server/public/uploads/main_page.gif)
 
 --------------------------------------------------------------------------------
 Create dog:
 
-!["Dog"](./express-server/public/dogs/create_dog.gif)
+!["Dog"](./express-server/public/uploads/create_dog.gif)
 
 --------------------------------------------------------------------------------
 My dog matches:
 
-!["Matches"](./express-server/public/dogs/my_matches.gif)
+!["Matches"](./express-server/public/uploads/my_matches.gif)
 
 --------------------------------------------------------------------------------
 My favourites:
 
-!["Favourites"](./express-server/public/dogs/favourites.gif)
+!["Favourites"](./express-server/public/uploads/favourites.gif)
 
 --------------------------------------------------------------------------------
 Chatting with a dog owner:
 
-!["Chat"](./express-server/public/dogs/chat.gif)
+!["Chat"](./express-server/public/uploads/chat.gif)
 
 ## Initial setup
 
