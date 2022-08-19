@@ -4,6 +4,36 @@
 
 ### A full-stack social app that matches and links the dogs for walks and play-dates. Matches are made based on detailed dog profiles and geographical location.
 
+--------------------------------------------------------------------------------
+Creating a user profile:
+
+!["Create"](./express-server/public/dogs/create_profile.gif)
+
+--------------------------------------------------------------------------------
+Main page:
+
+!["Main"](./express-server/public/dogs/main_page.gif)
+
+--------------------------------------------------------------------------------
+Create dog:
+
+!["Dog"](./express-server/public/dogs/create_dog.gif)
+
+--------------------------------------------------------------------------------
+My dog matches:
+
+!["Matches"](./express-server/public/dogs/my_matches.gif)
+
+--------------------------------------------------------------------------------
+My favourites:
+
+!["Favourites"](./express-server/public/dogs/favourites.gif)
+
+--------------------------------------------------------------------------------
+Chatting with a dog owner:
+
+!["Chat"](./express-server/public/dogs/chat.gif)
+
 ## Initial setup
 
 1. After cloning the repo, inside ```express-server/``` folder
